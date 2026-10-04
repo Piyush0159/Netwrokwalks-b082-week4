@@ -1,6 +1,5 @@
-# Netwrokwalks-b082-week4
 
-Penetration Testing Report: Mediroza General Hospital
+    **Penetration Testing Report: Mediroza General Hospital**
 
 Target: https://medirozahospital.com
 
@@ -28,7 +27,14 @@ Execution: Performed thorough directory enumeration and mapping of the applicati
 
 Deliverable: Verified access to restricted portal sections with authorized testing permission. clues:
 
-Screenshot 2026-09-30 234126 Screenshot 2026-09-30 234228
+
+
+<img width="925" height="578" alt="662428601-23e02b5b-2497-4fba-9179-905013cbe6cf" src="https://github.com/user-attachments/assets/359abe2a-5e70-4a6e-b20b-613072fdf669" />
+
+
+
+<img width="1622" height="636" alt="662428985-f8f856f4-0cc5-4386-ad8d-47fdd6128530" src="https://github.com/user-attachments/assets/8fe53b4a-23e7-4b87-9621-e45e889070d1" />
+
 
 Milestone 2: Data Extraction & Cryptanalysis
 
@@ -39,11 +45,26 @@ Execution: Retrieved three encrypted patient PDF files from the target web serve
 
 Deliverable: Recovered contents of all three patient files with full proof of access.
 
-1st pdf *image
+1st pdf 
 
-2nd pdf image
 
-3rd pdf image
+<img width="1091" height="770" alt="662431425-2a997ce4-3808-495c-b148-b18c078cacdd" src="https://github.com/user-attachments/assets/bf70b010-2b9b-479e-9e2a-07272ae55155" />
+
+
+
+2nd pdf 
+
+
+<img width="1196" height="672" alt="662432178-80a2d2fb-3024-48dd-965f-ddfdfcee7771" src="https://github.com/user-attachments/assets/bd010ae4-a00d-4c72-a35a-934bfb4669ee" />
+
+
+
+
+3rd pdf 
+
+
+<img width="1920" height="922" alt="662433093-7d2994d3-f22a-4306-b5a7-9f307e465018" src="https://github.com/user-attachments/assets/42e8b760-00cc-45c2-b111-c1f4f70afb20" />
+
 
 
 Milestone 3: Critical Data Exposure & Exploitation
